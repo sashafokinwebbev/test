@@ -6,8 +6,9 @@ LICENSE: [MIT](./license.md)
 ---
 
 ### Содержание:
-1)
-2)
+1) [git clone](./git_clone.md)
+
+2) [git push](./git_push.md) 
 3)
 
 ---
